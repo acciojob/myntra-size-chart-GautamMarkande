@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+table{
+	border : 1px solid black;
+}
+th,td,thead{
+	border : 1px solid black;
+	padding : 20px;
+	margin : 0px;
+	
+}
