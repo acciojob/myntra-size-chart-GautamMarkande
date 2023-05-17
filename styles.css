@@ -2,9 +2,11 @@
 /* Your CSS Code here. */
 table{
 	border : 1px solid black;
+	border-collapse: collapse;
 }
 th,td,thead{
 	border : 1px solid black;
+	border-collapse: collapse;
 	padding : 20px;
 	margin : 0px;
 	
